@@ -1,0 +1,10 @@
+XPATH_MORE_BUTTON = '//android.widget.FrameLayout[@resource-id="com.ixigo:id/bottom_navigation_view"]/android.view.ViewGroup/android.widget.FrameLayout[5]/android.view.ViewGroup/android.view.View/android.view.View'
+XPATH_HOME_BUTTON = '(//android.widget.ImageView[@resource-id="com.ixigo:id/navigation_bar_item_icon_view"])[1]'
+# XPATH_MORE_BUTTON = '(//android.widget.FrameLayout[@resource-id="com.ixigo:id/navigation_bar_item_icon_container"])[5]'
+XPATH_LOGIN_BUTTON = '//android.view.View[@content-desc="Image"]'
+# XPATH_LOGIN_BUTTON = '//android.widget.TextView[@text="Log In To Explore"]'
+XPATH_LOGGED_IN_NAME = '//android.widget.TextView[@text="Arabindaverma"]'
+XPATH_NOTIFICATION = '//android.widget.TextView[@text="Stay notified, travel smarter!"]'
+XPATH_SKIP_NOTIFICATION_BUTTON = '//androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View[1]/android.widget.Button'
+XPATH_SETTINGS_OPTION = '(//android.view.ViewGroup[@resource-id="com.ixigo:id/title"])[7]'
+
